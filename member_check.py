@@ -8,7 +8,7 @@ import logging
 import traceback
 import re
 
-from sheet_logger import log_to_sheet
+# from sheet_logger import log_to_sheet
 
 # Configure logging
 logging.basicConfig(
